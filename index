@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+#include<file.h>
+
+int returnParameter(int n, int pos,int len);
+  int main()
+  {
+  char path[100];
+  printf("Enter the path of metadata file\n");
+  scanf("%s",&path);
+  return 0;
+  }
